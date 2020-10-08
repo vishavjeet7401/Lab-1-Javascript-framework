@@ -1,0 +1,13 @@
+body{
+    background-color: linear-gradient(to right, #babaee, #007bff);
+}
+
+input{
+    font-size: 100px;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: pink;
+    text-shadow: 3px;
+}
